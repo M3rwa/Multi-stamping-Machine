@@ -1,5 +1,3 @@
-#include <LiquidCrystal.h>
-
 #include <LiquidCrystal.h>//Library of LCD with 12C
 #include <Key.h>
 #include <Keypad.h>//Library of keypad
