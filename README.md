@@ -65,5 +65,3 @@ If you encounter any issues or errors while setting up or running the Multi-Stam
 - Review the code for any syntax errors or logical issues.
 - Check the Arduino IDE's serial monitor for any error messages or debugging information.
 - Seek help from online forums or communities for assistance with specific problems.
-
-##projecr video: https://drive.google.com/file/d/1p2P3mTBkYWmOQ5QFgfS6NkxhVV4t7qO6/view?usp=drive_link
